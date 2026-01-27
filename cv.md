@@ -10,7 +10,7 @@
 My priorities are to become **a good specialist in the sphere of IT**. 
 >I like learning and apreciate, when people strive for knowledge.
 
-`I completed my basic education with a special certificate and graduated from school with a gold medal.`
+`I completed my basic education with a special certificate and graduated from school with a gold medal.`\
 Now I am a student `at the Faculty of Engineering and Economics at the Belarusian State University of Informatics and Radioelectronics`. I'm studying for a degree in `Information Systems and Technoloqies in Economics.`
 ## Skills
 * C/C++
@@ -72,5 +72,6 @@ int main() {
 [2 sem OAIP kursach](https://github.com/PolinaSoroko/oaip-2-sem-kursach.git)\
 [CV Rolling-scopes-school](https://github.com/PolinaSoroko/rsschool-cv.git)\
 [3 sem OOPiP kursach](https://github.com/PolinaSoroko/kursach_oopip_3sem.git)
+
 
 
