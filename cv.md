@@ -3,6 +3,7 @@
 
 ## My contacts
 *phone number:* +375(29)373-14-66\
+*Telegram:* @polinasoroko\
 *my email:* ssspolllinnaa0703w@gmail.com, sorokpoli54@gmail.com\
 *discord:* @polina034740\
 *gitHub:* @polinasoroko
@@ -72,6 +73,7 @@ int main() {
 [2 sem OAIP kursach](https://github.com/PolinaSoroko/oaip-2-sem-kursach.git)\
 [CV Rolling-scopes-school](https://github.com/PolinaSoroko/rsschool-cv.git)\
 [3 sem OOPiP kursach](https://github.com/PolinaSoroko/kursach_oopip_3sem.git)
+
 
 
 
