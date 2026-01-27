@@ -16,7 +16,7 @@ Now I am a student `at the Faculty of Engineering and Economics at the Belarusia
 ## Skills
 * C/C++
 * Python
-* HTML, CSS
+* HTML, CSS, Markdown
 * IDEF0, BPMN, UML
 * Databases
 ## Languages
@@ -73,6 +73,7 @@ int main() {
 [2 sem OAIP kursach](https://github.com/PolinaSoroko/oaip-2-sem-kursach.git)\
 [CV Rolling-scopes-school](https://github.com/PolinaSoroko/rsschool-cv.git)\
 [3 sem OOPiP kursach](https://github.com/PolinaSoroko/kursach_oopip_3sem.git)
+
 
 
 
