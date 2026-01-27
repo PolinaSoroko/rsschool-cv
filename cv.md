@@ -1,5 +1,5 @@
 ﻿# Polina Soroko
-<img src="images/photo_2025-07-21_17-33-44.jpg" alt="It's me" width="200" height="200">
+<img src="images/IMG_20260125_001238_237.jpg" alt="It's me" width="200" height="200">
 
 ## My contacts
 *phone number:* +375(29)373-14-66\
@@ -73,6 +73,7 @@ int main() {
 [2 sem OAIP kursach](https://github.com/PolinaSoroko/oaip-2-sem-kursach.git)\
 [CV Rolling-scopes-school](https://github.com/PolinaSoroko/rsschool-cv.git)\
 [3 sem OOPiP kursach](https://github.com/PolinaSoroko/kursach_oopip_3sem.git)
+
 
 
 
